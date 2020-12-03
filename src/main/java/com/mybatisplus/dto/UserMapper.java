@@ -1,7 +1,7 @@
 package com.mybatisplus.dto;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
-import com.frame.mybatisplus.entity.User;
+import com.mybatisplus.entity.User;
 
 /**
  * @description:

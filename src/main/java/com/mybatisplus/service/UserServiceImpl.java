@@ -1,7 +1,7 @@
 package com.mybatisplus.service;
 
-import com.frame.mybatisplus.dto.UserMapper;
-import com.frame.mybatisplus.entity.User;
+import com.mybatisplus.dto.UserMapper;
+import com.mybatisplus.entity.User;
 import org.springframework.stereotype.Service;
 
 /**

@@ -1,7 +1,7 @@
 package com.mybatisplus.service;
 
 
-import com.frame.mybatisplus.entity.User;
+import com.mybatisplus.entity.User;
 
 /**
  * @description:
